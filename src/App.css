@@ -42,4 +42,6 @@
 
 .btn:hover {
   cursor: pointer;
+  background-color: var(--lightgray);
+
 }
