@@ -10,10 +10,10 @@ const Hero = () => {
         <div className="the-best-ad">
           <div>
           </div>
-          <span>The best fitness club in town</span>
+          <span>The best fitness club in the town</span>
         </div>
       </div>
-      <div className='right-h'>right side</div>
+      <div className='right-h'></div>
     </div>
   )
 }
